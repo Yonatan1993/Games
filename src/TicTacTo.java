@@ -45,7 +45,7 @@ public class TicTacTo {
                     return false;
         }
         printBoard(board);
-        System.out.println("The game is Tie");
+        System.out.println("The game is Tie!!");
         return true;
     }
 
